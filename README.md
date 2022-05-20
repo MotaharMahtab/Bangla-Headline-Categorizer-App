@@ -1,7 +1,7 @@
 # Bangla-Headline-Categorizer-App
 Bangla Article Headline categorizer made with Streamlit using Transformer models. The pretrained model file is stored in a S3 bucket which is publicly accessible.
 ## Demo
-  [![Alt text](https://github.com/MotaharMahtab/Bangla-Clickbait-Detector-App/blob/main/clickbait_detection_demo.gif)
+  [![Alt text](https://github.com/MotaharMahtab/Bangla-Headline-Categorizer-App/blob/main/headline_detector_demo.gif)
 
 [Streamlit website](https://www.streamlit.io/)
 

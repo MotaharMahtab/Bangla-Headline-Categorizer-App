@@ -9,7 +9,7 @@ import torch
 @st.cache
 def load_model():
   if not os.path.exists('headline_model.pt'):  
-    site_url = 'https://clickbait-model.s3.amazonaws.com/clickbait_model.pt'
+    site_url = 'https://headline-model.s3.amazonaws.com/headline_model.pt'
     file_name = wget.download(site_url)
   return predictor.PythonPredictor()
 
